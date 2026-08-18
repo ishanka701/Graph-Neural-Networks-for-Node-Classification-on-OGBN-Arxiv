@@ -38,7 +38,7 @@ GCN's simpler, fixed neighborhood aggregation slightly outperformed GAT's learne
 ## Repository Structure
 
 ```
-ccs4354-gnn-arxiv/
+Graph Neural Networks for Node Classification on OGBN-Arxiv/
 ├── Notebooks/
 │   ├── 01_tensor_fundamentals.ipynb      Tensor operations and GPU basics
 │   ├── 02_graph_analysis.ipynb           Graph representation, degree/density/component analysis
